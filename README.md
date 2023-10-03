@@ -22,7 +22,7 @@ pip install Flask Flask-CORS
 Navigate to the React app directory (./react/my-app) and install the Node.js dependencies:
 
 ```
-cd react/my-app
+cd react
 npm install
 ```
 

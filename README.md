@@ -1,6 +1,5 @@
 # mocha-jupyteresque
 
-Simple Jupyter Notebook Clone
 This project is a basic implementation of a Jupyter Notebook-like application. It allows you to create Python code snippets in a web-based UI, execute them, and view the results. The project utilizes Flask for the backend and React for the frontend.
 
 ## Prerequisites
